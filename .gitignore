@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+out/
+build-output/
+coverage/
+
+# Dependency directories
+# Optional: You may want to comment these out if you're committing your dependencies
+# /client/node_modules/
+# /server/node_modules/
+
+# Environment files
+.env*
+!.env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Miscellaneous
+npm-debug.log*
+yarn-error.log*
